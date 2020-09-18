@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>递归 on feng</title>
-    <link>http://localhost:1313/tags/%E9%80%92%E5%BD%92/</link>
+    <link>https://c-feng.github.io/tags/%E9%80%92%E5%BD%92/</link>
     <description>Recent content in 递归 on feng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 10 Aug 2020 21:45:56 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/%E9%80%92%E5%BD%92/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://c-feng.github.io/tags/%E9%80%92%E5%BD%92/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>剑指offer 面试题34:二叉树中和为某一值的路径</title>
-      <link>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9834%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84/</link>
+      <link>https://c-feng.github.io/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9834%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84/</link>
       <pubDate>Mon, 10 Aug 2020 21:45:56 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9834%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84/</guid>
+      <guid>https://c-feng.github.io/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9834%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84/</guid>
       <description>题目：输入一棵二叉树和一个整数，打印出二叉树中结点值的和为输入整数的所有路径。从树的根结点开始往下一直到叶结点所经过的结点形成一条路径。 二叉</description>
     </item>
     
     <item>
       <title>剑指offer 面试题33:二叉搜索树的后序遍历序列</title>
-      <link>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9833%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97/</link>
+      <link>https://c-feng.github.io/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9833%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97/</link>
       <pubDate>Mon, 10 Aug 2020 20:01:17 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9833%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97/</guid>
+      <guid>https://c-feng.github.io/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9833%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97/</guid>
       <description>题目：输入一个整数数组，判断该数组是不是某二叉搜索树的后序遍历的结果。 如果是则返回true，否则返回false。假设输入的数组的任意两个数字</description>
     </item>
     
     <item>
       <title>剑指offer 面试题28:对称的二叉树</title>
-      <link>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9828%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91/</link>
+      <link>https://c-feng.github.io/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9828%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91/</link>
       <pubDate>Fri, 07 Aug 2020 17:34:40 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9828%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91/</guid>
+      <guid>https://c-feng.github.io/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9828%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91/</guid>
       <description>题目：请实现一个函数，用来判断一棵二叉树是不是对称的。如果一棵二叉树和它的镜像一样，那么它是对称的。 第一颗二叉树是对称的，另外两个不是 解题思</description>
     </item>
     
     <item>
       <title>剑指offer 面试题27:二叉树的镜像</title>
-      <link>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9827%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F/</link>
+      <link>https://c-feng.github.io/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9827%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F/</link>
       <pubDate>Fri, 07 Aug 2020 16:01:02 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9827%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F/</guid>
+      <guid>https://c-feng.github.io/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9827%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F/</guid>
       <description>题目：请完成一个函数，输入一个二叉树，该函数输出它的镜像。 1 2 3 4 5 6 struct BinaryTreeNode { double m_dbValue; BinaryTreeNode* m_pLeft; BinaryTreeNode* m_pRight; }; 两颗互为镜像的二叉树 解题思路 交换所有非叶子节点的左</description>
     </item>
     
     <item>
       <title>剑指offer 面试题26:树的子结构</title>
-      <link>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9826%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84/</link>
+      <link>https://c-feng.github.io/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9826%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84/</link>
       <pubDate>Fri, 07 Aug 2020 12:03:42 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9826%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84/</guid>
+      <guid>https://c-feng.github.io/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9826%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84/</guid>
       <description>题目：输入两棵二叉树A和B，判断B是不是A的子结构。二叉树节点的定义如下： 1 2 3 4 5 6 struct BinaryTreeNode { double m_dbValue; BinaryTreeNode* m_pLeft; BinaryTreeNode* m_pRight; }; 解题思路 在A树中寻找和B的根节点一</description>
     </item>
     
     <item>
       <title>剑指offer 面试题25:合并两个排序的链表</title>
-      <link>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9825%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8/</link>
+      <link>https://c-feng.github.io/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9825%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8/</link>
       <pubDate>Fri, 07 Aug 2020 09:31:28 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9825%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8/</guid>
+      <guid>https://c-feng.github.io/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9825%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8/</guid>
       <description>题目：输入两个递增排序的链表，合并这两个链表并使新链表中的结点仍然是按 照递增排序的。例如输入图3.11中的链表1和链表2，则合并之后的升序链</description>
     </item>
     
     <item>
       <title>剑指offer 面试题24:反转链表</title>
-      <link>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9824%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/</link>
+      <link>https://c-feng.github.io/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9824%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/</link>
       <pubDate>Thu, 06 Aug 2020 18:05:25 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9824%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/</guid>
+      <guid>https://c-feng.github.io/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9824%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/</guid>
       <description>题目：定义一个函数，输入一个链表的头结点，反转该链表并输出反转后链表的 头结点。链表节点定义如下： 1 2 3 4 struct ListNode { int m_nValue; ListNode *m_pNext; } 解题思路 链表反转会导</description>
     </item>
     
     <item>
       <title>剑指offer 面试题19:正则表达式匹配</title>
-      <link>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer-%E9%9D%A2%E8%AF%95%E9%A2%9819%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D/</link>
+      <link>https://c-feng.github.io/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer-%E9%9D%A2%E8%AF%95%E9%A2%9819%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D/</link>
       <pubDate>Thu, 06 Aug 2020 10:30:08 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer-%E9%9D%A2%E8%AF%95%E9%A2%9819%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D/</guid>
+      <guid>https://c-feng.github.io/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer-%E9%9D%A2%E8%AF%95%E9%A2%9819%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D/</guid>
       <description>题目：请实现一个函数用来匹配包含&amp;rsquo;.&amp;lsquo;和&amp;rsquo;*&amp;lsquo;的正则表达式。模式中的字符&amp;rsquo;.&amp;r</description>
     </item>
     
