@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>链表 on feng</title>
+    <link>http://localhost:1313/tags/%E9%93%BE%E8%A1%A8/</link>
+    <description>Recent content in 链表 on feng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 07 Aug 2020 09:31:28 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/%E9%93%BE%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>剑指offer 面试题25:合并两个排序的链表</title>
+      <link>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9825%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8/</link>
+      <pubDate>Fri, 07 Aug 2020 09:31:28 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9825%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8/</guid>
+      <description>题目：输入两个递增排序的链表，合并这两个链表并使新链表中的结点仍然是按 照递增排序的。例如输入图3.11中的链表1和链表2，则合并之后的升序链</description>
+    </item>
+    
+    <item>
+      <title>剑指offer 面试题24:反转链表</title>
+      <link>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9824%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/</link>
+      <pubDate>Thu, 06 Aug 2020 18:05:25 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9824%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/</guid>
+      <description>题目：定义一个函数，输入一个链表的头结点，反转该链表并输出反转后链表的 头结点。链表节点定义如下： 1 2 3 4 struct ListNode { int m_nValue; ListNode *m_pNext; } 解题思路 链表反转会导</description>
+    </item>
+    
+    <item>
+      <title>剑指offer 面试题23:链表中环的入口节点</title>
+      <link>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9823%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%8E%AF%E7%9A%84%E5%85%A5%E5%8F%A3%E8%8A%82%E7%82%B9/</link>
+      <pubDate>Thu, 06 Aug 2020 16:47:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9823%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%8E%AF%E7%9A%84%E5%85%A5%E5%8F%A3%E8%8A%82%E7%82%B9/</guid>
+      <description>题目：一个链表中包含环，如何找出环的入口结点？例如，在下图的链表中， 环的入口结点是结点3。 解题思路 双指针可以用来判断链表中是否存在环，一个慢</description>
+    </item>
+    
+    <item>
+      <title>剑指offer 面试题22:链表中倒数第k个节点</title>
+      <link>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9822%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9/</link>
+      <pubDate>Thu, 06 Aug 2020 15:53:28 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9822%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9/</guid>
+      <description>题目：输入一个链表，输出该链表中倒数第k个结点。为了符合大多数人的习惯， 本题从1开始计数，即链表的尾结点是倒数第1个结点。例如一个链表有6个</description>
+    </item>
+    
+  </channel>
+</rss>

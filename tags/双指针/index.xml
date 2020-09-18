@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>双指针 on feng</title>
+    <link>http://localhost:1313/tags/%E5%8F%8C%E6%8C%87%E9%92%88/</link>
+    <description>Recent content in 双指针 on feng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 06 Aug 2020 16:47:52 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/%E5%8F%8C%E6%8C%87%E9%92%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>剑指offer 面试题23:链表中环的入口节点</title>
+      <link>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9823%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%8E%AF%E7%9A%84%E5%85%A5%E5%8F%A3%E8%8A%82%E7%82%B9/</link>
+      <pubDate>Thu, 06 Aug 2020 16:47:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9823%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%8E%AF%E7%9A%84%E5%85%A5%E5%8F%A3%E8%8A%82%E7%82%B9/</guid>
+      <description>题目：一个链表中包含环，如何找出环的入口结点？例如，在下图的链表中， 环的入口结点是结点3。 解题思路 双指针可以用来判断链表中是否存在环，一个慢</description>
+    </item>
+    
+    <item>
+      <title>剑指offer 面试题22:链表中倒数第k个节点</title>
+      <link>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9822%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9/</link>
+      <pubDate>Thu, 06 Aug 2020 15:53:28 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9822%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9/</guid>
+      <description>题目：输入一个链表，输出该链表中倒数第k个结点。为了符合大多数人的习惯， 本题从1开始计数，即链表的尾结点是倒数第1个结点。例如一个链表有6个</description>
+    </item>
+    
+    <item>
+      <title>剑指offer 面试题21:调整数组顺序使奇数位于偶数前面</title>
+      <link>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9821%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2/</link>
+      <pubDate>Thu, 06 Aug 2020 15:09:15 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E9%9D%A2%E8%AF%95%E9%A2%9821%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2/</guid>
+      <description>题目：输入一个整数数组，实现一个函数来调整该数组中数字的顺序，使得所有 奇数位于数组的前半部分，所有偶数位于数组的后半部分。 解题思路 最直观的方</description>
+    </item>
+    
+  </channel>
+</rss>
